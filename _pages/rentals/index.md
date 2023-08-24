@@ -8,9 +8,12 @@
       - /images/rental/pic3.jpg
       - /images/rental/pic4.jpg
 ---
+<div class="alert alert-danger"> 
+<p><strong>Stratton Student Center Closure (Updated March 8th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. We are resuming office hours out of the MITOC boathouse in N52 **not at the river**. We have most but not 100% of our gear available for rent. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
+</div>
 
 <div class="alert alert-warning"> 
-   <p><strong>COVID Access Update (Sep 22nd, 2021): General office hours (including rentals) will resume on Sep 28, 2021. You must wear a mask to access Stratton Student Center in compliance with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a>. We have adjusted our Tuesday/Thursday office hours to end at 7pm as Stratton is only accessible to the public until 7pm. An MIT ID card is required to enter the building after 7pm.</strong></p>
+<p><strong>COVID Access Update (Jan 2023): You must comply with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a> to visit MIT's campus.</strong></p>
 </div>
 
 **Please read this whole page before coming in to rent gear for the first time.** There is some administrativia involved, and planning ahead will help your rental go smoothly.
@@ -38,7 +41,7 @@
     
     Deposit checks are mandatory and must be _personal checks_. NO EXCEPTIONS UNDER ANY CIRCUMSTANCES. We will not accept money orders, cashier's checks, cash, credit cards, IDs, valuables, or anything else as collateral for rentals. Do not try to pressure deskworkers to bend this rule.
     
-2.  **Come by the [MITOC office (W20-461)](http://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesdays and Thursdays from 6 - 7 pm and Fridays from noon - 1 pm. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
+2.  **Come by the [MITOC boathouse (N52 ground floor, enter at loading dock)](http://whereis.mit.edu/?go=N52) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesday and Thursday evenings and ocasionally Friday afternoons. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
 3.  **Go outside and have fun! Yay!**
 
 ### Returning Gear
@@ -60,9 +63,9 @@
 During MITOC Winter School (during MIT's IAP term), there are a few additional policies in effect for renting gear from MITOC:
 
 *   Gear rental office hours are on Tuesdays, Thursdays, and Fridays.
-*   Tuesdays are for RETURNS ONLY. All gear checked out the previous week MUST be returned on Tuesday. No exceptions.
-*   Thursdays are for checking out gear for Winter School participants only. If you are not participating in Winter School, you will be turned away from office hours.
-*   Fridays are the only days that non-Winter School participants can rent out gear. You must return the gear the following Tuesday, no exceptions.
+*   Tuesdays are for RETURNS ONLY. No checkouts allowed. All gear checked out the previous week MUST be returned on Tuesday. No exceptions.
+*   Thursdays are for checking out gear for official Winter School trips only. If you are not checking out gear for an official Winter School trip, you will be turned away from office hours.
+*   Fridays are the only days that non-Winter School participants can rent out gear. Anyone can check out gear for personal trips, or exchange gear for their Winter School trip if needed. You must return the gear the following Tuesday, no exceptions.
 
 * * *
 
