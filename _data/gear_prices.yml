@@ -36,12 +36,18 @@ camping:
     - title: Bear Canister
       deposit: $75
       rental: $4
+    - title: Compass
+      deposit: $16
+      rental: $1
 
 climbing:
   items:
     - title: ATC and Locking Biner
       deposit: $30
       rental: $2
+    - title: Grigri and Locking Biner
+      deposit: $100
+      rental: $3
     - title: Climbing Shoes
       deposit: $60
       rental: $5
@@ -51,28 +57,53 @@ climbing:
     - title: Climbing Harness
       deposit: $60
       rental: $4
-    - title: Plastic Boot
-      deposit: $180
-      rental: $6
+    - title: Stick Clip
+      deposit: $50
+      rental: $5
   restricted_items:
+    # Bouldering
     - title: Bouldering Pad
       deposit: $200
-      rental: $5
-    - title: Ascenders, Daisies, and Ladders
-      deposit: $250
-      rental: $5
+      rental: $6
+    # Sport
     - title: Quickdraws (pack of 6)
       deposit: $80
       rental: $5
     - title: Ohm Assisted Braking Device
       deposit: $100
+      rental: $2
+    # Trad
+    - title: Single rack (.2-3 Camalot, BD offset nuts)
+      deposit: $500
+      rental: $10
+    - title: "Large cams, #4-8 Camalot (individual)"
+      deposit: $60-140
+      rental: $4
+    - title: Microtraxion
+      deposit: $100
+      rental: $3
+    # Aid / Big walls
+    - title: Ascenders, Daisies, and Ladders
+      deposit: $250
       rental: $5
     - title: Haul Bag
       deposit: $140
       rental: $5
+    - title: G7 Pod Portaledge (1p)
+      deposit: $785
+      rental: $10
+    - title: G7 Alpine Shelter
+      deposit: $450
+      rental: $8
 
 winter_hiking:
   items:
+    - title: Hard Shell Jacket
+      deposit: $270
+      rental: $8
+    - title: Waterproof Insulated Mittens
+      deposit: $120
+      rental: $5
     - title: Sorel Boots
       deposit: $110
       rental: $6
@@ -161,7 +192,7 @@ xc_skiing:
           rental: $5
     - title: Both
       items:
-        - title: XC Ski
+        - title: XC Ski Poles
           deposit: $40
           rental: $2
 
@@ -204,32 +235,54 @@ at_skiing:
 
 purchasable:
   items:
-    - title: Boston Rocks
-      price: $25
-    - title: Last Human Running T-shirt
-      price: $15
+    # Branded
     - title: MITOC T-shirt
       price: $15
     - title: MITOC Nalgene Bottle
-      price: $9
+      price: $11.50
+    - title: MITOC Snapback Hat
+      price: $15
+    - title: MITOC Iron-on Patch
+      price: $3
+    - title: MITOC Logo Sticker
+      price: $1
+    - title: MITOC Violle Ski Straps
+      price: $6.50
+    # All Season Supplies
     - title: Whistle
       price: $2
+    - title: Compass
+      price: $16
+    - title: Petzl Headlamp TIKKINA 250
+      price: $20
+    - title: Black Diamond Headlamp Cosmo 300
+      price: $20
+    - title: Petzl Core Rechargable Battery
+      price: $30
+    - title: AAA Battery 5 packs
+      price: $1.50
+    # Winter Supplies
+    - title: Wag Bag
+      price: $3
+    - title: Hot Hand Warmers (2 pack)
+      price: $1
+    - title: Ski Goggles
+      price: $25
+    - title: Above-treeline Goggles
+      price: $5
+    - title: Gaiters
+      price: $19
+    - title: Emergency Foil Blankets
+      price: $1
+    # Maps & Guides
+    - title: Boston Rocks
+      price: $25
     - title: Waterproof White Mountains Map
       price: $10
-    - title: Headlamp (Petzl Tikkina)
-      price: $18
-    - title: Compass
-      price: $12
-    - title: Wag Bag
-      price: $2.50
-    - title: MITOC Patch
-      price: $3
-    - title: Hot Hand Warmers
-      price: $1
-    - title: MITOC bumper sticker
-      price: $1
-    - title: Goggles
-      price: $18
+    - title: Waterproof Acadia Map
+      price: $10
+    - title: Waterproof Katahdin Map
+      price: $10
 
 biking:
   items:
@@ -251,3 +304,20 @@ biking:
     - title: Truing Stand
       deposit: $200
       rental: $3
+
+surfing:
+  approver: boathouse-mgr@mit.edu
+  items:
+    - title: Wetsuit
+      deposit: $100
+      rental: $10
+    - title: Surf Gloves
+      deposit: $20
+      rental: $3
+    - title: Surf Booties
+      deposit: $20
+      rental: $3
+  restricted_items:
+    - title: Surfboard
+      deposit: $400
+      rental: $10
